@@ -14,6 +14,7 @@ Backend: FastAPI + Groq
 OCR:Patram-7B
 Deployment: Docker + Render  
 DB: PostgreSQL
+demo link : https://stitch.withgoogle.com/preview/12769934606450788272?node-id=11344d24da014544a13bbe7159a7d3a3&raw=1
 
 ## ✨ **Key Features**
 | Feature | Status | Impact |
